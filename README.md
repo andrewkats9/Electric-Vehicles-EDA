@@ -41,4 +41,4 @@ Source: Washington State Department of Licensing (DOL)
 
 Note: Please refer to the original dataset for any specific usage restrictions or disclaimers.
 
-https://catalog.data.gov/dataset/electric-vehicle-population-data# Electric-Vehicles-EDA
+https://catalog.data.gov/dataset/electric-vehicle-population-data
