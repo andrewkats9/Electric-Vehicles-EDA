@@ -1,8 +1,8 @@
 # Electric-Vehicles-in-Washington-EDA
 Electric Vehicles in Washington EDA
 
-Team DSFT 1 : Andreas Katsaros, Dimitris Farantos <br>
-Project : Electric Vehicle Population
+Team DSFT 1: Andreas Katsaros, Dimitris Farantos <br>
+Project: Electric Vehicle Population
 
 
 ## About Dataset
@@ -50,7 +50,7 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 - How is the distribution of electric vehicles (EVs) across different counties and cities?
 - What are the most popular makes and models of EVs?
-- Which electric vehicle types (BEV or PHEV) are most popular ?
+- Which electric vehicle types (BEV or PHEV) are most popular?
 - What is the distribution of EVs through the years?
 - What is the distribution of electric range of vehicles preferred?
-- What is the market share between EV models ?
+- What is the market share between EV models?
